@@ -1,0 +1,21 @@
+1 a
+2 a
+3 c
+4 c
+5 ad
+6 b
+7 e
+8 b => C : Static members are only in inner static class
+9 b
+10 c
+11 d
+12 e
+13 b
+14 ef => E : Interface instanceof Interface
+15 be
+16 ae => E
+17 b => BC
+18 g
+19 ac
+20 c
+21 e => ACE

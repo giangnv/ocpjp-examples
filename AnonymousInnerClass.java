@@ -1,6 +1,7 @@
 
 // Anonymous Inner Class
 // Must be EXTENDS Abstract class or IMPLEMENTS an interface
+// None: Access modifiers
 // Here is example
 
 public class AnonymousInnerClass {

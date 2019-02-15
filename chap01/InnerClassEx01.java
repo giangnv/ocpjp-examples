@@ -17,6 +17,8 @@ public class InnerClassEx01 {
     public static void main(String[] args) {
         InnerClassEx01 outer = new InnerClassEx01();
         Inner inner = outer.new Inner();
+        Inner inner2 = new InnerClassEx01().new Inner();
+        inner2.go();
         inner.go();
     }
 }

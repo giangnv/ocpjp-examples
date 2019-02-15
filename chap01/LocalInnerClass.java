@@ -1,3 +1,6 @@
+// Local inner class: 
+// None modifier access
+
 public class LocalInnerClass {
     private int length = 10;
 

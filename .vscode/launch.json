@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - InnerClassEx01",
+            "request": "launch",
+            "mainClass": "InnerClassEx01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "Employee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticNestedClass",
+            "request": "launch",
+            "mainClass": "StaticNestedClass"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AnonymousInnerClass",
             "request": "launch",
             "mainClass": "AnonymousInnerClass"
